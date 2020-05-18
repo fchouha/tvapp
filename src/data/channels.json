@@ -1,0 +1,82 @@
+[
+  {
+    "id": "alarabiya",
+    "name": "AlArabiya",
+    "logo": "../images/logos/alarabiya.jpg",
+    "language": "ar",
+    "category": "news",
+    "embedUrl": "https://www.youtube.com/embed/_r4VxG1daoE"
+  },
+  {
+    "id": "alhadath",
+    "name": "AlHadath",
+    "logo": "../images/logos/alhadath.png",
+    "language": "ar",
+    "category": "news",
+    "embedUrl": "https://www.youtube.com/embed/IC8uE0vTLEI"
+  },
+  {
+    "id": "sky-news-arabia",
+    "name": "Sky News Arabia",
+    "logo": "../images/logos/sky-news-arabia.jpg",
+    "language": "ar",
+    "category": "news",
+    "embedUrl": "https://www.youtube.com/embed/a9pmCRqDe_E"
+  },
+  {
+    "id": "bbc-arabic",
+    "name": "BBC Arabic",
+    "logo": "../images/logos/bbc-arabic.png",
+    "language": "ar",
+    "category": "news",
+    "embedUrl": "https://www.youtube.com/embed/HxI2TxhhS9A"
+  },
+  {
+    "id": "france-24-arabic",
+    "name": "France 24 Arabic",
+    "logo": "../images/logos/france-24.png",
+    "language": "ar",
+    "category": "news",
+    "embedUrl": "https://www.youtube.com/embed/96tR5ufXhGQ"
+  },
+  {
+    "id": "rt-arabic",
+    "name": "RTarabic",
+    "logo": "../images/logos/rt.png",
+    "language": "ar",
+    "category": "news",
+    "embedUrl": "https://www.youtube.com/embed/3AokIYKBz8I"
+  },
+  {
+    "id": "aljazeera",
+    "name": "Al Jazeera",
+    "logo": "../images/logos/aljazeera.png",
+    "language": "ar",
+    "category": "news",
+    "embedUrl": "https://www.youtube.com/embed/69mnGsxTtAY"
+  },
+  {
+    "id": "dw-arabia",
+    "name": "DW Arabia",
+    "logo": "../images/logos/dw.jpg",
+    "language": "ar",
+    "category": "news",
+    "embedUrl": "https://www.youtube.com/embed/_gCmRE5ypgA"
+  },
+  {
+    "id": "trt-arabi",
+    "name": "TRT Arabi",
+    "logo": "../images/logos/trt-arabic.jpg",
+    "language": "ar",
+    "category": "news",
+    "embedUrl": "https://www.youtube.com/embed/EftNR9wombk"
+  },
+  {
+    "id": "dubai-tv",
+    "name": "Dubai TV",
+    "logo": "../images/logos/dubai-tv.jpg",
+    "language": "ar",
+    "category": "entertainment",
+    "embedUrl": "https://www.youtube.com/embed/1X0OYu8NMOo"
+  }
+]
