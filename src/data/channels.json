@@ -13,7 +13,7 @@
     "logo": "../images/logos/alhadath.png",
     "language": "ar",
     "category": "news",
-    "embedUrl": "https://www.youtube.com/embed/IC8uE0vTLEI"
+    "embedUrl": "https://www.youtube.com/embed/8DPMkn7fmSo"
   },
   {
     "id": "sky-news-arabia",
@@ -21,7 +21,7 @@
     "logo": "../images/logos/sky-news-arabia.jpg",
     "language": "ar",
     "category": "news",
-    "embedUrl": "https://www.youtube.com/embed/a9pmCRqDe_E"
+    "embedUrl": "https://www.youtube.com/embed/f5Avv-ww0j4"
   },
   {
     "id": "bbc-arabic",
@@ -61,7 +61,7 @@
     "logo": "../images/logos/dw.jpg",
     "language": "ar",
     "category": "news",
-    "embedUrl": "https://www.youtube.com/embed/_gCmRE5ypgA"
+    "embedUrl": "https://www.youtube.com/embed/G8OSxbTf-W0"
   },
   {
     "id": "trt-arabi",
@@ -78,5 +78,61 @@
     "language": "ar",
     "category": "entertainment",
     "embedUrl": "https://www.youtube.com/embed/1X0OYu8NMOo"
+  },
+  {
+    "id": "sky-news",
+    "name": "Sky News",
+    "logo": "../images/logos/sky-news.png",
+    "language": "en",
+    "category": "news",
+    "embedUrl": "https://www.youtube.com/embed/9Auq9mYxFEE"
+  },
+  {
+    "id": "dw-news",
+    "name": "DW News",
+    "logo": "../images/logos/dw.jpg",
+    "language": "en",
+    "category": "news",
+    "embedUrl": "https://www.youtube.com/embed/NvqKZHpKs-g"
+  },
+  {
+    "id": "france-24-english",
+    "name": "France 24 English",
+    "logo": "../images/logos/france-24.png",
+    "language": "en",
+    "category": "news",
+    "embedUrl": "https://www.youtube.com/embed/BJzSJlMwQcA"
+  },
+  {
+    "id": "aljazeera-english",
+    "name": "Al Jazeera English",
+    "logo": "../images/logos/aljazeera.png",
+    "language": "en",
+    "category": "news",
+    "embedUrl": "https://www.youtube.com/embed/2EppLNonncc"
+  },
+  {
+    "id": "rt-news",
+    "name": "RT News",
+    "logo": "../images/logos/rt.png",
+    "language": "en",
+    "category": "news",
+    "embedUrl": "https://www.youtube.com/embed/NvCSr7qzAAM"
+  },
+  {
+    "id": "bloomberg",
+    "name": "Bloomberg Global Financial News",
+    "logo": "../images/logos/bloomberg.png",
+    "language": "en",
+    "category": "news",
+    "embedUrl": "https://www.youtube.com/embed/dp8PhLsUcFE"
+  },
+  {
+    "id": "trt-world",
+    "name": "TRT World",
+    "logo": "../images/logos/trt-world.jpg",
+    "language": "en",
+    "category": "news",
+    "embedUrl": "https://www.youtube.com/embed/CV5Fooi8YJA"
   }
 ]
