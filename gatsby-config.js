@@ -1,8 +1,8 @@
 module.exports = {
   pathPrefix: `/tvapp`,
   siteMetadata: {
-    title: `Free Live TV`,
-    description: `Watch free live arabic TV channels from one website.`,
+    title: `Livestream TV`,
+    description: `Watch free live TV`,
     author: `Fadi Chouha`,
   },
   plugins: [
@@ -25,6 +25,13 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
+    {
+      resolve: `gatsby-plugin-google-fonts`,
+      options: {
+        fonts: [`merriweather sans`],
+        display: "swap",
+      },
+    },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {

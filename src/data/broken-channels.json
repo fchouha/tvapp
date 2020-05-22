@@ -1,0 +1,18 @@
+[
+  {
+    "id": "abc-news",
+    "name": "ABC News",
+    "logo": "../images/logos/abc-news.jpg",
+    "language": "en",
+    "category": "news",
+    "embedUrl": "https://www.youtube.com/embed/live_stream?channel=UCBi2mrWuNuyYy4gbM6fU18Q"
+  },
+  {
+    "id": "bloomberg",
+    "name": "Bloomberg Global Financial News",
+    "logo": "../images/logos/bloomberg.png",
+    "language": "en",
+    "category": "news",
+    "embedUrl": "https://www.youtube.com/embed/live_stream?channel=UCUMZ7gohGI9HcU9VNsr2FJQ"
+  }
+]

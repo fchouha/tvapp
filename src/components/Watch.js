@@ -10,7 +10,7 @@ const Watch = ({ pageContext: { name, embedUrl } }) => (
       meta={[
         {
           name: "keywords",
-          content: `free tv, arab tv, live tv, ${name}`,
+          content: `free tv, livestream tv, ${name}`,
         },
       ]}
     />
@@ -22,10 +22,10 @@ const Watch = ({ pageContext: { name, embedUrl } }) => (
         border: 0,
       }}
       title={name}
-      src={`${embedUrl}?autoplay=1`}
-      frameborder="0"
+      src={`${embedUrl}&autoplay=1`}
+      frameBorder="0"
       allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-      allowfullscreen
+      allowFullScreen
     ></iframe>
   </React.Fragment>
 );

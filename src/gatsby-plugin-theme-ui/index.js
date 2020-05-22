@@ -5,6 +5,10 @@ export default {
     background: "#222",
     muted: "#888",
   },
+  fonts: {
+    body: "merriweather sans",
+    heading: "merriweather sans",
+  },
   fontWeights: {
     body: 400,
     heading: 600,
@@ -41,6 +45,15 @@ export default {
     medium: "2px",
     large: "3px",
   },
+  textStyles: {
+    heading: {
+      fontFamily: "heading",
+      lineHeight: "heading",
+      fontWeight: "heading",
+      marginTop: 0,
+      marginBottom: 3,
+    },
+  },
   styles: {
     root: {
       backgroundColor: "background",
@@ -52,5 +65,29 @@ export default {
       m: 0,
       p: 0,
     },
+    h1: {
+      variant: "textStyles.heading",
+      fontSize: 5,
+    },
+    h2: {
+      variant: "textStyles.heading",
+      fontSize: 4,
+    },
+    h3: {
+      variant: "textStyles.heading",
+      fontSize: 3,
+    },
+    h4: {
+      variant: "textStyles.heading",
+      fontSize: 2,
+    },
+    h5: {
+      variant: "textStyles.heading",
+      fontSize: 1,
+    },
+    h6: {
+      variant: "textStyles.heading",
+      fontSize: 0,
+    },
   },
-}
+};
