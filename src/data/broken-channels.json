@@ -14,5 +14,13 @@
     "language": "en",
     "category": "news",
     "embedUrl": "https://www.youtube.com/embed/live_stream?channel=UCUMZ7gohGI9HcU9VNsr2FJQ"
+  },
+  {
+    "id": "franceinfo",
+    "name": "franceinfo",
+    "logo": "../images/logos/franceinfo.png",
+    "language": "fr",
+    "category": "news",
+    "embedUrl": "https://www.youtube.com/embed/live_stream?channel=UCO6K_kkdP-lnSCiO3tPx7WA"
   }
 ]

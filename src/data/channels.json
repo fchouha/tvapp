@@ -126,5 +126,29 @@
     "language": "en",
     "category": "news",
     "embedUrl": "https://www.youtube.com/embed/live_stream?channel=UC7fWeaHhqgM4Ry-RMpM2YYw"
+  },
+  {
+    "id": "france-24",
+    "name": "France 24",
+    "logo": "../images/logos/france-24.png",
+    "language": "fr",
+    "category": "news",
+    "embedUrl": "https://www.youtube.com/embed/live_stream?channel=UCCCPCZNChQdGa9EkATeye4g"
+  },
+  {
+    "id": "frenchpod-101",
+    "name": "Learn French Free",
+    "logo": "../images/logos/learn-french-free.jpg",
+    "language": "fr",
+    "category": "education",
+    "embedUrl": "https://www.youtube.com/embed/live_stream?channel=UCHk14TRSD33vAyx5xKzpcnw"
+  },
+  {
+    "id": "rt-france",
+    "name": "RT France",
+    "logo": "../images/logos/rt-france.png",
+    "language": "fr",
+    "category": "news",
+    "embedUrl": "https://www.youtube.com/embed/live_stream?channel=UCqEVwTnDzlzKOGYNFemqnYA"
   }
 ]

@@ -14,6 +14,10 @@ const langs = [
     code: "ar",
     label: "Arabic",
   },
+  {
+    code: "fr",
+    label: "French",
+  },
 ];
 
 const ChannelList = ({ channels }) => {
