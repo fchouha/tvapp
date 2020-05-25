@@ -80,6 +80,22 @@
     "embedUrl": "https://www.youtube.com/embed/live_stream?channel=UCnxcG6CqTO85dBXlyjPKInA"
   },
   {
+    "id": "nbc2",
+    "name": "NBC2 News",
+    "logo": "../images/logos/nbc2.jpg",
+    "language": "en",
+    "category": "news",
+    "embedUrl": "https://www.youtube.com/embed/live_stream?channel=UCIYVU7fPs_n6gJIBso3ryeg"
+  },
+  {
+    "id": "newsmax",
+    "name": "Newsmax TV",
+    "logo": "../images/logos/newsmax-tv.jpg",
+    "language": "en",
+    "category": "news",
+    "embedUrl": "https://www.youtube.com/embed/live_stream?channel=UCx6h-dWzJ5NpAlja1YsApdg"
+  },
+  {
     "id": "sky-news",
     "name": "Sky News",
     "logo": "../images/logos/sky-news.jpg",
@@ -126,6 +142,14 @@
     "language": "en",
     "category": "news",
     "embedUrl": "https://www.youtube.com/embed/live_stream?channel=UC7fWeaHhqgM4Ry-RMpM2YYw"
+  },
+  {
+    "id": "nasa-live",
+    "name": "NASA Live",
+    "logo": "../images/logos/nasa.png",
+    "language": "en",
+    "category": "science",
+    "embedUrl": "https://www.youtube.com/embed/live_stream?channel=UCLA_DiR1FfKNvjuUpBHmylQ"
   },
   {
     "id": "france-24",
